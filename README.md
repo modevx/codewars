@@ -1,7 +1,7 @@
 ![MODEVX Banner](https://user-images.githubusercontent.com/51300954/70197571-4edcdb80-16da-11ea-9e94-6bb4f6ef4675.png)
 
 # CODEWARS
-#### I use Codewars to keep my problem-solving/logic skills sharp.  Cataloging my old solutions lets me continuously evaluate and improve my approach to new problems. <br><hr>
+I use Codewars to keep my problem-solving/logic skills sharp.  Cataloging my old solutions lets me continuously evaluate and improve my approach to new problems. <br><hr>
 
 #### I'm all about collaborating to get better.  If you're learning to code, grow a blog, start an online business and you have any feedback, questions or suggestions - hit me up!<br><hr>
 
