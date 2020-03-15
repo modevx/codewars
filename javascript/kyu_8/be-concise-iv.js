@@ -8,8 +8,8 @@
 //   return "Not found";
 // }
 
-// -- SOLUTION --    
-// _attempt #1_
+// -- ATTEMPTS --    
+// #1
 // const find = (array, element) => {
 //   array.forEach((el, index) => {
 //     if(element === el) { console.log( index ); } 
@@ -17,7 +17,10 @@
 //   });
 // }
 
-// _attempt #2_
+// #2
+// a lot of bad attempts here.  kept trying to find a way to use findIndex() before realizing I needed indexOf()
+
+// had to find solution
 const find = (array, e) => {
   array.includes(e) ? array.indexOf(e) : 'Not Found';
 };
