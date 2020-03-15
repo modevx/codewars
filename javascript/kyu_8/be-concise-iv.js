@@ -20,7 +20,7 @@
 // #2
 // a lot of bad attempts here.  kept trying to find a way to use findIndex() before realizing I needed indexOf()
 
-// had to find solution
+// had to find solution - used ternary
 const find = (array, e) => {
   array.includes(e) ? array.indexOf(e) : 'Not Found';
 };
