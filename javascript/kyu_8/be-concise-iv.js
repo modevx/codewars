@@ -43,7 +43,3 @@ find(array, 'Lorem Ipsum');
 find(array, 6);
 find(array, Math.PI);
 
-// -----------
-// -- NOTES --
-// -----------
-// forEach() by default returns 'undefined'
